@@ -719,6 +719,10 @@ img {
     fill: #F4F4FD;
 }
 
+.form-field:nth-child(4) {
+    margin-bottom: 16px;
+}
+
 .policy-link {
     color: #4d5ae5;
     text-decoration: underline;
