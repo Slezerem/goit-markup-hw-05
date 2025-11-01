@@ -717,7 +717,7 @@ img {
 
 }
 
-.form-checkbox:checked+.checkbox-label .checkbox-span {
+.form-checkbox:checked+ .checkbox-label .checkbox-span {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
